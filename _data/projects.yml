@@ -10,8 +10,7 @@
 - project: Database Project at Université Paris 13 Institut Galilée 
   role: Primary Developer
   duration: June 
-  description: Analyzed, developed, and tested a data model for a Twitter like application using MySql . Project included data Initialization, and queries implementation to
-extract complex data from the model.
+  description: Analyzed, developed, and tested a data model for a Twitter like application using MySql . Project included data Initialization, and queries implementation to extract complex data from the model.
   
   #Springfield Donut Eater's User Group
 
