@@ -5,37 +5,30 @@
   duration: september 2016 &mdash; january 2017
   description: Developed of a Twitter like web application with HTML5, CSS3, PHP, AJAX, SQL.
 
-#Springfield Donut Eater's User Group
+
 
 - project: Database Project at Université Paris 13 Institut Galilée 
   role: Primary Developer
   duration: June 
   description: Analyzed, developed, and tested a data model for a Twitter like application using MySql . Project included data Initialization, and queries implementation to extract complex data from the model.
   
-  #Springfield Donut Eater's User Group
+ 
 
 - project: Game programming
   role: Primary Developer
-  duration: 5 months 
+  duration: 2016 (5 months) 
   description: Designed, developed and tested <B><I>Demineur</I></B> game using GTK interface.
   
-  #Springfield Donut Eater's User Group
-
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: June 
-  description:
   
-  #Springfield Donut Eater's User Group
 
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: June 
-  description:
+- project: Robotics programming Competition
+  role: Team leader and Primary Developer
+  duration: Jully 2013 (4 months)
+  description: Designed, developed, and tested a robot program using URBI software in order to move and transport objects, and to go through a particular circuit.
+  
+  
 
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: June 
-  description:
+
+
+
