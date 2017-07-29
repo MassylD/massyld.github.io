@@ -10,8 +10,7 @@
   uni: Université Paris 13 Institut Galilée (Paris Sorbonne)
   year: 2015 &mdash; 2016
   awards: 
-  summary: <B>project</B> &#45; <I>Database Project</I> <br/> Analyzed, developed, and tested a data model for a Twitter like application using MySql . Project included data Initialization, and queries implementation to
-extract complex data from the model. 
+  summary: <B>project</B> &#45; <I>Database Project</I> <br/> Analyzed, developed, and tested a data model for a Twitter like application using MySql . Project included data Initialization, and queries implementation to extract complex data from the model. 
   
   # Degree
 - degree: Licence 2 , Computer Science
