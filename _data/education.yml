@@ -10,7 +10,12 @@
   uni: Université Paris 13 Institut Galilée (Paris Sorbonne)
   year: 2015 &mdash; 2016
   awards: 
-  summary: <B>project</B> &#45; <I>Database Project</I> <br/> Analyzed, developed, and tested a data model for a Twitter like application using MySql . Project included data Initialization, and queries implementation to extract complex data from the model. 
+  summary: <u><B>project</B></u> &#45; <I>Database Project</I> <br/> Analyzed, developed, and tested a data model for a Twitter like application using MySql . Project included data Initialization, and queries implementation to extract complex data from the model.<br/> <u><B>project</B></u> &#45; <I>System modeling - UML</I> Modeled the ONU voting system using UML diagrams.
+  <u><B>project</B></u> &#45; <I> “Who is? game“ - Android </I>
+Designed, developed, and tested "Who is?" game including the client part which was an Android application implemented using Android Studio.
+
+  
+  
   
   # Degree
 - degree: Licence 2 , Computer Science
