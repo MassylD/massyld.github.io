@@ -1,7 +1,7 @@
 # Jobs
  # Springfield Nuclear Power Plant
--- position &#58; Safety Inspector
--  company &#58; Springfield Nuclear Power Plant
+-- position:  Safety Inspector
+-  company: Springfield Nuclear Power Plant
 +- company &#58; Springfield Nuclear Power Plant
 +  position &#58; Safety Inspector
    duration &#58; Nov, 1980 &mdash; Present
